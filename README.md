@@ -1,4 +1,4 @@
-# repromeda_test
+# app.R
 Popis: Táto aplikácia je interaktívny nástroj vytvorený pomocou R Shiny, ktorý umožňuje užívateľom spravovať a vizualizovať záznamy s nasledujúcimi funkciami:
 
     Zobrazenie tabuľky: Interaktívna tabuľka s údajmi obsahujúcimi ID, Výsledek a Popis.
